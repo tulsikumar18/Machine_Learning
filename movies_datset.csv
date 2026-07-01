@@ -1,0 +1,51 @@
+movie_name,rating,cast,hotstar,netflix,language,release_year
+Leo,8.3,"Vijay, Trisha Krishnan, Sanjay Dutt",1,0,Tamil,2023
+Jawan,8.1,"Shah Rukh Khan, Nayanthara, Vijay Sethupathi",0,1,Hindi,2023
+Kantara,8.7,"Rishab Shetty, Sapthami Gowda, Kishore",1,0,Kannada,2022
+RRR,8.9,"N. T. Rama Rao Jr., Ram Charan, Alia Bhatt",0,1,Hindi,2022
+Master,8.2,"Vijay, Vijay Sethupathi, Malavika Mohanan",1,0,Tamil,2021
+777 Charlie,8.8,"Rakshit Shetty, Sangeetha Sringeri, Raj B Shetty",1,0,Kannada,2022
+Drishyam 2,8.5,"Ajay Devgn, Tabu, Akshaye Khanna",0,1,Hindi,2022
+Vikram,8.6,"Kamal Haasan, Fahadh Faasil, Vijay Sethupathi",1,0,Tamil,2022
+KGF Chapter 2,8.4,"Yash, Srinidhi Shetty, Sanjay Dutt",1,0,Kannada,2022
+Pathaan,7.8,"Shah Rukh Khan, Deepika Padukone, John Abraham",0,1,Hindi,2023
+Animal,8.0,"Ranbir Kapoor, Rashmika Mandanna, Anil Kapoor",0,1,Hindi,2023
+Thunivu,7.6,"Ajith Kumar, Manju Warrier, Samuthirakani",1,0,Tamil,2023
+Kaatera,8.1,"Darshan, Aradhana Ram, Jagapathi Babu",1,0,Kannada,2023
+12th Fail,9.0,"Vikrant Massey, Medha Shankar, Anant Joshi",0,1,Hindi,2023
+Jailer,8.4,"Rajinikanth, Vinayakan, Tamannaah",1,0,Tamil,2023
+Love Mocktail,8.0,"Darling Krishna, Milana Nagaraj, Amrutha Iyengar",1,0,Kannada,2020
+Dangal,8.8,"Aamir Khan, Fatima Sana Shaikh, Sanya Malhotra",0,1,Hindi,2016
+Soorarai Pottru,8.7,"Suriya, Aparna Balamurali, Paresh Rawal",1,0,Tamil,2020
+Avane Srimannarayana,8.2,"Rakshit Shetty, Shanvi Srivastava, Achyuth Kumar",1,0,Kannada,2019
+Andhadhun,8.5,"Ayushmann Khurrana, Tabu, Radhika Apte",0,1,Hindi,2018
+Mersal,8.1,"Vijay, Samantha Ruth Prabhu, Kajal Aggarwal",1,0,Tamil,2017
+Bell Bottom,7.9,"Rishab Shetty, Hariprriya, Yogaraj Bhat",1,0,Kannada,2019
+Zindagi Na Milegi Dobara,8.6,"Hrithik Roshan, Farhan Akhtar, Abhay Deol",0,1,Hindi,2011
+96,8.5,"Vijay Sethupathi, Trisha Krishnan, Gouri Kishan",1,0,Tamil,2018
+Ugramm,8.0,"Sriimurali, Haripriya, Tilak Shekar",1,0,Kannada,2014
+Gully Boy,8.2,"Ranveer Singh, Alia Bhatt, Siddhant Chaturvedi",0,1,Hindi,2019
+Kaithi,8.5,"Karthi, Narain, Arjun Das",1,0,Tamil,2019
+Yuvarathnaa,7.5,"Puneeth Rajkumar, Sayyeshaa, Dhananjay",1,0,Kannada,2021
+Bajrangi Bhaijaan,8.7,"Salman Khan, Harshaali Malhotra, Kareena Kapoor",0,1,Hindi,2015
+Bigil,7.9,"Vijay, Nayanthara, Jackie Shroff",1,0,Tamil,2019
+Roberrt,7.8,"Darshan, Asha Bhat, Jagapathi Babu",1,0,Kannada,2021
+Chhichhore,8.4,"Sushant Singh Rajput, Shraddha Kapoor, Varun Sharma",0,1,Hindi,2019
+Ponniyin Selvan I,8.3,"Vikram, Karthi, Jayam Ravi",1,0,Tamil,2022
+Kirik Party,8.6,"Rakshit Shetty, Rashmika Mandanna, Samyuktha Hegde",1,0,Kannada,2016
+Queen,8.2,"Kangana Ranaut, Rajkummar Rao, Lisa Haydon",0,1,Hindi,2014
+Theri,8.1,"Vijay, Samantha Ruth Prabhu, Amy Jackson",1,0,Tamil,2016
+Mufti,8.0,"Shivarajkumar, Sriimurali, Shanvi Srivastava",1,0,Kannada,2017
+PK,8.5,"Aamir Khan, Anushka Sharma, Sushant Singh Rajput",0,1,Hindi,2014
+Asuran,8.6,"Dhanush, Manju Warrier, Prakash Raj",1,0,Tamil,2019
+Googly,7.8,"Yash, Kriti Kharbanda, Anant Nag",1,0,Kannada,2013
+Article 15,8.3,"Ayushmann Khurrana, Isha Talwar, Sayani Gupta",0,1,Hindi,2019
+Sarkar,7.7,"Vijay, Keerthy Suresh, Varalaxmi Sarathkumar",1,0,Tamil,2018
+Dia,8.1,"Pruthvi Ambaar, Kushee Ravi, Dheekshith Shetty",1,0,Kannada,2020
+Barfi!,8.4,"Ranbir Kapoor, Priyanka Chopra, Ileana D'Cruz",0,1,Hindi,2012
+Viswasam,7.9,"Ajith Kumar, Nayanthara, Jagapathi Babu",1,0,Tamil,2019
+Tagaru,8.0,"Shivarajkumar, Manvitha Kamath, Bhavana",1,0,Kannada,2018
+Taare Zameen Par,8.9,"Aamir Khan, Darsheel Safary, Tisca Chopra",0,1,Hindi,2007
+Doctor,8.0,"Sivakarthikeyan, Priyanka Mohan, Vinay Rai",1,0,Tamil,2021
+James,7.6,"Puneeth Rajkumar, Priya Anand, Srikanth",1,0,Kannada,2022
+3 Idiots,8.8,"Aamir Khan, R. Madhavan, Sharman Joshi",0,1,Hindi,2009

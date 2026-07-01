@@ -1,0 +1,35 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+.DS_Store
+.vscode/
+.env
+*.sqlite3
+*.db
+*.egg-info/
+.eggs/
+.python-version
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment folders
+venv/
+ENV/
+env/
+.venv/
+
+# MacOS files
+.DS_Store
+
+# Logs
+*.log
+
+# Python distribution/build folders
+build/
+dist/
+*.egg
+*.egg-info/
